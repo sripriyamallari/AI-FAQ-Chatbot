@@ -1,0 +1,3 @@
+gradio
+nltk
+scikit-learn
