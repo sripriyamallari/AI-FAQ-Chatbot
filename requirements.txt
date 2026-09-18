@@ -1,3 +1,0 @@
-gradio
-nltk
-scikit-learn
